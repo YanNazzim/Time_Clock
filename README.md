@@ -4,6 +4,7 @@ This guide will help you run the Time Clock script on
 your Linux system. The script allows you to 
 manage user punch data and clock in/out records.
 
+THIS WHOLE FOLDER MUST BE IN HOME DIRECTORY TO WORK 
 
 1. Folder Structure:
 
